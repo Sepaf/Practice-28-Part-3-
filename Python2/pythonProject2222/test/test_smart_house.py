@@ -1,4 +1,4 @@
-#Python -m pytest -v --driver Chrome --driver-path C:/Python2/pythonProject2222/chromedriver.exetest_start_web.py
+#Python -m pytest -v --driver Chrome --driver-path C:/Python2/pythonProject2222/chromedriver.exetest_smart_house.py
 
 import pytest
 import selenium
